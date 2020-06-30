@@ -1,9 +1,9 @@
 
-# Socket.IO Chat
+# Chat app usinng Socket.io
 
 Extension of the previous chat app using Socket.io.
 
-## To run this app, point to the folder and
+## To run this app locally, point to the folder and
 
 ```
 $ npm ci
@@ -11,6 +11,8 @@ $ npm start
 ```
 
 And point your browser to `http://localhost:3000`. 
+
+I have also deployed it on Heroku `https://chatapp-by-prateek.herokuapp.com/`
 
 ## Features I have added
 
